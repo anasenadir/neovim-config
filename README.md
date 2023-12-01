@@ -1,4 +1,4 @@
-						### My Neovim Configuration ###
+# My Neovim Configuration
 ### Step1 :
 	cd ~
 	sudo apt update
